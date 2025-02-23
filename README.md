@@ -1,4 +1,4 @@
-# LinuxSecurity
+# LinuxSecurityHardening 
 Performing Linux Security Tasks in Redhat Linux
 # 1.Remove Unneeded Functionality
 - A ) Use package management tools like apt or yum to list all installed packages. Review the list and remove any packages that are not necessary for your server’s roles or functions.
